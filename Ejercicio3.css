@@ -1,0 +1,46 @@
+
+.container{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content:space-between;
+  align-items:center;
+  align-content:center;
+  vertical-align: middle;
+position: relative;
+  top: 20px
+  transform: translate(-50%, -50%);
+border:1px solid black
+
+
+  }
+  
+  .rojo{
+      background-color: red;
+      height: 150px;
+      width: 150px;
+
+   
+  }
+        
+  .azul{
+      background-color: blue;
+      height: 150px;
+      width: 150px;
+
+  }
+        
+  .verde{
+      background-color: green;
+      height: 150px;
+      width: 150px;
+  }
+
+p{ 
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    font-size: 15px;
+    padding-top: 45px;
+}
+        
